@@ -1,7 +1,7 @@
 # Contributors
 -JOHAN
 -JohnK
-- [Hikdo](https://github.com/hikdobrazil) Coding4fun :D From Amazon Forest - Brazil
+- [Hikdo](https://github.com/hikdobrazil) **Coding4fun :D From Amazon Forest - Brazil**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 -Bhavishya Singla
 - [Fei_NoLabel](https://github.com/umavl6) **Stay hungry，stay foolish.**
